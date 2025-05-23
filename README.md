@@ -1,5 +1,9 @@
 # OmniFocus MCP Server
 
+[![Test](https://github.com/bjcoombs/OmniFocus-MCP/actions/workflows/test.yml/badge.svg)](https://github.com/bjcoombs/OmniFocus-MCP/actions/workflows/test.yml)
+[![npm version](https://badge.fury.io/js/omnifocus-mcp.svg)](https://badge.fury.io/js/omnifocus-mcp)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A Model Context Protocol (MCP) server that integrates with OmniFocus to enable Claude (or other MCP-compatible AI assistants) to interact with your tasks and projects.
 
 ![OmniFocus MCP](assets/omnifocus-mcp-logo.png)
